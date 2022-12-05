@@ -1,8 +1,6 @@
 # FailedTestCapture
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/failed_test_capture`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem is for capturing failed tests when run as a test suite, that can then be re-run quickly in the future.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Not sure exactly how this will be used.
 
 ## Development
 
